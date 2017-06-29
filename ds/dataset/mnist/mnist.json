@@ -1,0 +1,23 @@
+{
+  "name": "MNIST",
+  "description": "handwritten digit database",
+  "homepage": "http://yann.lecun.com/exdb/mnist",
+  "artifacts": [
+    {
+      "url": "http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz",
+      "description": "training set images"
+    },
+    {
+      "url": "http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz",
+      "description": "training set labels"
+    },
+    {
+      "url": "http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz",
+      "description": "test set images"
+    },
+    {
+      "url": "http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz",
+      "description": "training set labels"
+    }
+  ]
+}

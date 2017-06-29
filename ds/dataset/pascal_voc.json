@@ -1,0 +1,23 @@
+{
+  "name": "PASCAL Visual Object Classes",
+  "description": "Provides standardised image data sets for object class recognition",
+  "homepage": "http://host.robots.ox.ac.uk/pascal/VOC/",
+  "artifacts": [
+    {
+      "url": "http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz",
+      "description": "training set images"
+    },
+    {
+      "url": "http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz",
+      "description": "training set labels"
+    },
+    {
+      "url": "http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz",
+      "description": "test set images"
+    },
+    {
+      "url": "http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz",
+      "description": "training set labels"
+    }
+  ]
+}

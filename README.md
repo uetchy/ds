@@ -1,6 +1,6 @@
 # ds
 
-A simple command-line app for organizing large datasets, machine learning models and its pre-trained weights.
+__ds__ is here for organizing large datasets and preprocessing them into suitable format for general deep learning frameworks.
 That's just for the people who is working on data science.
 
 ## Usage
@@ -8,7 +8,7 @@ That's just for the people who is working on data science.
 ### Download datasets
 
 ```
-ds dataset install imagenet
+ds get imagenet
 ```
 
 ### Download pre-trained weights
